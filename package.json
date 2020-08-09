@@ -1,0 +1,24 @@
+{
+    "name": "pitch-black",
+    "displayName": "Pitch Black",
+    "description": "100% dark VSCode theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pitch Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "@moxer/vscode-theme-generator": "^1.19.0"
+    }
+}
