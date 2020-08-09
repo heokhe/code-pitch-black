@@ -2,6 +2,7 @@
     "name": "pitch-black",
     "displayName": "Pitch Black",
     "description": "100% dark VSCode theme.",
+    "license": "SEE LICENSE IN LICENSE",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
