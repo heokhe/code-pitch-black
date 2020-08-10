@@ -30,5 +30,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/hkh12/code-pitch-black.git"
+    },
+    "devDependencies": {
+        "typescript": "^2.1.6"
     }
 }
