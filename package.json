@@ -7,7 +7,7 @@
     "displayName": "Pitch Black",
     "description": "100% dark VSCode theme.",
     "license": "SEE LICENSE IN LICENSE",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.44.0"
     },
