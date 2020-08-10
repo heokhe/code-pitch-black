@@ -1,5 +1,9 @@
 {
     "name": "pitch-black",
+    "author": {
+        "name": "Hosein Khansari",
+        "email": "hrk.x11@gmail.com"
+    },
     "displayName": "Pitch Black",
     "description": "100% dark VSCode theme.",
     "license": "SEE LICENSE IN LICENSE",
@@ -21,5 +25,9 @@
     },
     "dependencies": {
         "@moxer/vscode-theme-generator": "^1.19.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hkh12/code-pitch-black.git"
     }
 }
