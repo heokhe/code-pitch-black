@@ -6,7 +6,7 @@ A 100% dark VSCode theme, built up for coding in absolute darkness. Since the co
 ![JS screenshot](screenshots/js.png)
 
 ## Support for other languages
-This theme is built with [`vscode-theme-generator`](https://github.com/moxer-theme/code-theme-generator), And probably a good support for other languages, although I haven't tested it.
+This theme is built with [`vscode-theme-generator`](https://github.com/moxer-theme/code-theme-generator), And probably has a good support for other languages (although I haven't tested them yet).
 
 ## Todos
 - [ ] Improve the workbench colors
