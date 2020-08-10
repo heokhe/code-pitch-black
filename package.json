@@ -26,6 +26,7 @@
     "dependencies": {
         "@moxer/vscode-theme-generator": "^1.19.0"
     },
+    "publisher": "hkh12",
     "repository": {
         "type": "git",
         "url": "https://github.com/hkh12/code-pitch-black.git"
