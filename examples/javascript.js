@@ -7,11 +7,9 @@ export default async function readTxt(name) {
   return (await read(`${name}.txt`)).toString();
 }
 
-const PREFIX = 'file';
-
 for (let i = 0; i < 10; i++) {
   // eslint-disable-next-line prefer-template
-  readTxt(PREFIX + i).then(contents => {
+  readTxt('file' + i).then(contents => {
     console.log(contents);
     Math.random();
   });
