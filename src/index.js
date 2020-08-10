@@ -3,7 +3,7 @@ const { generateTheme } = require('@moxer/vscode-theme-generator');
 
 const fg = '#44445a';
 
-generateTheme('bruh', {
+generateTheme('Pitch Black', {
   type: 'dark',
   base: {
     background: '#000000',
